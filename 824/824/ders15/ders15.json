@@ -1,0 +1,32 @@
+{
+    "kullanicilar": [
+        {
+            "name":"Sevim",
+            "surname":"Yıdırım",
+            "title":"Yazılımcı",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKExvUViUa0brlMtvQDjxXZLzENwTT_BodDe9CWG6kAEcSemjnQl_w1ndpMHrKZFuyXLo&usqp=CAU",
+            "tc" : 11111,
+            "yetki":"admin"
+        },
+        {
+            "name":"Hakan",
+            "surname":"Yılmaz",
+            "title":"Grafiker",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhGwwB2AHrr7XkugwLq3S8k2IAG-ez050B73Pg_LRfMFYYiDF7_jriysHmLU02MSjEFlI&usqp=CAU",
+            "tc":22222,
+            "yetki":"üye"
+        },
+        {
+            "name":"Ayşegül",
+            "surname":"Çağlar",
+            "title":"Dijital Pazarlama Sorumlusu",
+            "image":"https://muffingroup.com/betheme/assets/images/placeholders/team-3.webp",
+            "tc":33333,
+            "yetki":"üye"
+        }
+    ],
+    "yetki":[
+        "Yönetici",
+        "Kullanıcı"
+    ]
+}
